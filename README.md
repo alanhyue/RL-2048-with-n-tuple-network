@@ -1,4 +1,4 @@
-N-Tuple Networks for the Game 2048 in Python
+# N-Tuple Networks for the Game 2048 in Python
 
 This repo implements a reinforcement learning agent to learn the game 2048 by optimizing the n-tuple network with Temporal Difference Learning.
 
